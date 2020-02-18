@@ -1,0 +1,18 @@
+html {
+    background-color: black;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+h1 {
+    text-align: center;
+    color: #EE1B2E;
+}
+
+.row {
+    max-width: 100%;
+    max-height: 100%;
+}

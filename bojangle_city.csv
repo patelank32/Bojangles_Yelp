@@ -1,0 +1,495 @@
+city,state,abb
+Albertville,Alabama,AL
+Athens,Alabama,AL
+Birmingham,Alabama,AL
+Calera,Alabama,AL
+Chelsea,Alabama,AL
+Daleville,Alabama,AL
+Decatur,Alabama,AL
+Dothan,Alabama,AL
+Enterprise,Alabama,AL
+Florence,Alabama,AL
+Fultondale,Alabama,AL
+Hoover,Alabama,AL
+Huntsville,Alabama,AL
+Jacksonville,Alabama,AL
+McCalla,Alabama,AL
+Mobile,Alabama,AL
+Montgomery,Alabama,AL
+Muscle Shoals,Alabama,AL
+Northport,Alabama,AL
+Opelika,Alabama,AL
+Oxford,Alabama,AL
+Pell City,Alabama,AL
+Russellville,Alabama,AL
+Tuscaloosa,Alabama,AL
+Gainesville,Florida,FL
+Jacksonville,Florida,FL
+Ocala,Florida,FL
+Orange Park,Florida,FL
+St. Augustine,Florida,FL
+Tallahassee,Florida,FL
+Acworth,Georgia,GA
+Adairsville,Georgia,GA
+Athens,Georgia,GA
+Atlanta,Georgia,GA
+Augusta,Georgia,GA
+Bogart,Georgia,GA
+Braselton,Georgia,GA
+Buford,Georgia,GA
+Calhoun,Georgia,GA
+Canton,Georgia,GA
+Cartersville,Georgia,GA
+Cedartown,Georgia,GA
+Chatsworth,Georgia,GA
+Cleveland,Georgia,GA
+College Park,Georgia,GA
+Columbus,Georgia,GA
+Commerce,Georgia,GA
+Conyers,Georgia,GA
+Cornelia,Georgia,GA
+Covington,Georgia,GA
+Cumming,Georgia,GA
+Dacula,Georgia,GA
+Dalton,Georgia,GA
+Dawsonville,Georgia,GA
+Doraville,Georgia,GA
+Duluth,Georgia,GA
+Elberton,Georgia,GA
+Evans,Georgia,GA
+Fairburn,Georgia,GA
+Fayetteville,Georgia,GA
+Flowery Branch,Georgia,GA
+Fort Oglethorpe,Georgia,GA
+Gainesville,Georgia,GA
+Griffin,Georgia,GA
+Grovetown,Georgia,GA
+Hartwell,Georgia,GA
+Hinesville,Georgia,GA
+Hiram,Georgia,GA
+Jasper,Georgia,GA
+Jefferson,Georgia,GA
+Kennesaw,Georgia,GA
+LaFayette,Georgia,GA
+Lavonia,Georgia,GA
+Lawrenceville,Georgia,GA
+Lithia Springs,Georgia,GA
+Lithonia,Georgia,GA
+Locust Grove,Georgia,GA
+Loganville,Georgia,GA
+Macon,Georgia,GA
+Madison,Georgia,GA
+Marietta,Georgia,GA
+Martinez,Georgia,GA
+McDonough,Georgia,GA
+Milledgeville,Georgia,GA
+Monroe,Georgia,GA
+Morrow,Georgia,GA
+Newnan,Georgia,GA
+Palmetto,Georgia,GA
+Pooler,Georgia,GA
+Port Wentworth,Georgia,GA
+Ringgold,Georgia,GA
+Riverdale,Georgia,GA
+Rockmart,Georgia,GA
+Rome,Georgia,GA
+Royston,Georgia,GA
+Savannah,Georgia,GA
+Smyrna,Georgia,GA
+Snellville,Georgia,GA
+Stockbridge,Georgia,GA
+Summerville,Georgia,GA
+Temple,Georgia,GA
+Thomson,Georgia,GA
+Tifton,Georgia,GA
+Toccoa,Georgia,GA
+Tucker,Georgia,GA
+Valdosta,Georgia,GA
+Villa Rica,Georgia,GA
+Warner Robins,Georgia,GA
+Winder ,Georgia,GA
+Woodstock,Georgia,GA
+Bowling Green,Kentucky,KY
+Corbin,Kentucky,KY
+Frankfort,Kentucky,KY
+Georgetown,Kentucky,KY
+London,Kentucky,KY
+Shelbyville,Kentucky,KY
+Shepherdsville,Kentucky,KY
+Versailles,Kentucky,KY
+Hillcrest Heights,Maryland,KY
+Landover,Maryland,KY
+New Carrollton,Maryland,KY
+Oxon Hill,Maryland,KY
+Upper Marlboro,Maryland,KY
+Aberdeen,North Carolina,NC
+Advance,North Carolina,NC
+Ahoskie,North Carolina,NC
+Albemarle,North Carolina,NC
+Apex,North Carolina,NC
+Archdale,North Carolina,NC
+Arden,North Carolina,NC
+Asheboro,North Carolina,NC
+Asheville,North Carolina,NC
+Atlantic Beach,North Carolina,NC
+Ayden,North Carolina,NC
+Belmont,North Carolina,NC
+Benson,North Carolina,NC
+Beulaville,North Carolina,NC
+Biscoe,North Carolina,NC
+Boiling Springs,North Carolina,NC
+Boone,North Carolina,NC
+Brevard,North Carolina,NC
+Bryson City,North Carolina,NC
+Burgaw,North Carolina,NC
+Burlington,North Carolina,NC
+Cameron,North Carolina,NC
+Candler,North Carolina,NC
+Canton,North Carolina,NC
+Carthage,North Carolina,NC
+Cary,North Carolina,NC
+Cedar Point,North Carolina,NC
+Charlotte,North Carolina,NC
+Cherryville,North Carolina,NC
+China Grove,North Carolina,NC
+Clayton,North Carolina,NC
+Clemmons,North Carolina,NC
+Clinton,North Carolina,NC
+Columbus,North Carolina,NC
+Concord,North Carolina,NC
+Connelly Springs,North Carolina,NC
+Conover,North Carolina,NC
+Cornelius,North Carolina,NC
+Creedmoor,North Carolina,NC
+Dallas,North Carolina,NC
+Denton,North Carolina,NC
+Denver,North Carolina,NC
+Dobson,North Carolina,NC
+Dunn,North Carolina,NC
+Durham,North Carolina,NC
+Eden,North Carolina,NC
+Elizabeth City,North Carolina,NC
+Elizabethtown,North Carolina,NC
+Farmville,North Carolina,NC
+Fayetteville,North Carolina,NC
+Flat Rock,North Carolina,NC
+Forest City,North Carolina,NC
+Franklin,North Carolina,NC
+Fuquay Varina,North Carolina,NC
+Garner,North Carolina,NC
+Gastonia,North Carolina,NC
+Goldsboro,North Carolina,NC
+Graham,North Carolina,NC
+Granite Falls,North Carolina,NC
+Grantsboro,North Carolina,NC
+Greensboro,North Carolina,NC
+Greenville,North Carolina,NC
+Hampstead,North Carolina,NC
+Harrisburg,North Carolina,NC
+Havelock,North Carolina,NC
+Henderson,North Carolina,NC
+Hendersonville,North Carolina,NC
+Hickory,North Carolina,NC
+High Point,North Carolina,NC
+Hildebran,North Carolina,NC
+Hillsborough,North Carolina,NC
+Hope Mills,North Carolina,NC
+Hudson,North Carolina,NC
+Huntersville,North Carolina,NC
+Indian Trail,North Carolina,NC
+Jacksonville,North Carolina,NC
+James City,North Carolina,NC
+Jefferson,North Carolina,NC
+Jonesville,North Carolina,NC
+Kannapolis,North Carolina,NC
+Kernersville,North Carolina,NC
+King,North Carolina,NC
+Kings Mountain,North Carolina,NC
+Kinston,North Carolina,NC
+Knightdale,North Carolina,NC
+La Grange,North Carolina,NC
+Laurinburg,North Carolina,NC
+Leland,North Carolina,NC
+Lenoir,North Carolina,NC
+Lexington,North Carolina,NC
+Lillington,North Carolina,NC
+Lincolnton,North Carolina,NC
+Locust,North Carolina,NC
+Louisburg,North Carolina,NC
+Lumberton,North Carolina,NC
+Maiden,North Carolina,NC
+Marion,North Carolina,NC
+Mars Hill,North Carolina,NC
+Marshville,North Carolina,NC
+Matthews,North Carolina,NC
+Mayodan,North Carolina,NC
+Mebane,North Carolina,NC
+Millers Creek,North Carolina,NC
+Mills River,North Carolina,NC
+Mint Hill,North Carolina,NC
+Mocksville,North Carolina,NC
+Monroe,North Carolina,NC
+Mooresville,North Carolina,NC
+Morehead City,North Carolina,NC
+Morganton,North Carolina,NC
+Morrisville,North Carolina,NC
+Mount Airy,North Carolina,NC
+Murphy,North Carolina,NC
+Nashville,North Carolina,NC
+New Bern,North Carolina,NC
+Newport,North Carolina,NC
+North Wilkesboro,North Carolina,NC
+Norwood,North Carolina,NC
+Oak Ridge,North Carolina,NC
+Oxford,North Carolina,NC
+Pembroke,North Carolina,NC
+Pittsboro,North Carolina,NC
+Plymouth,North Carolina,NC
+Princeton,North Carolina,NC
+Raeford,North Carolina,NC
+Raleigh,North Carolina,NC
+Ramseur,North Carolina,NC
+Randleman,North Carolina,NC
+Reidsville,North Carolina,NC
+Richfield,North Carolina,NC
+Richlands,North Carolina,NC
+Roanoke Rapids,North Carolina,NC
+Robersonville,North Carolina,NC
+Rockingham,North Carolina,NC
+Rocky Mount,North Carolina,NC
+Rolesville,North Carolina,NC
+Roxboro,North Carolina,NC
+Salisbury,North Carolina,NC
+Sanford,North Carolina,NC
+Selma,North Carolina,NC
+Shallotte,North Carolina,NC
+Shelby,North Carolina,NC
+Siler City,North Carolina,NC
+Snow Hill,North Carolina,NC
+Southport,North Carolina,NC
+Spencer,North Carolina,NC
+Stanley,North Carolina,NC
+Statesville,North Carolina,NC
+Supply,North Carolina,NC
+Sylva,North Carolina,NC
+Tarboro,North Carolina,NC
+Taylorsville,North Carolina,NC
+Thomasville,North Carolina,NC
+Troutman,North Carolina,NC
+Troy,North Carolina,NC
+Vanceboro,North Carolina,NC
+Wadesboro,North Carolina,NC
+Wake Forest,North Carolina,NC
+Walkertown,North Carolina,NC
+Wallace,North Carolina,NC
+Walnut Cove,North Carolina,NC
+Warsaw,North Carolina,NC
+Washington,North Carolina,NC
+Waxhaw,North Carolina,NC
+Waynesville,North Carolina,NC
+Weaverville,North Carolina,NC
+Welcome,North Carolina,NC
+Whiteville,North Carolina,NC
+Whitsett,North Carolina,NC
+Wilkesboro,North Carolina,NC
+Williamston,North Carolina,NC
+Wilmington,North Carolina,NC
+Wilson,North Carolina,NC
+Windsor,North Carolina,NC
+Winston Salem,North Carolina,NC
+Yadkinville,North Carolina,NC
+Yanceyville,North Carolina,NC
+Zebulon,North Carolina,NC
+Reading,Pennsylvania,PA
+Aiken,South Carolina,SC
+Anderson,South Carolina,SC
+Aynor,South Carolina,SC
+Batesburg,South Carolina,SC
+Beaufort,South Carolina,SC
+Bennettsville,South Carolina,SC
+Bluffton,South Carolina,SC
+Blythewood,South Carolina,SC
+Boiling Springs,South Carolina,SC
+Camden,South Carolina,SC
+Cayce,South Carolina,SC
+Chapin,South Carolina,SC
+Charleston,South Carolina,SC
+Cheraw,South Carolina,SC
+Chester,South Carolina,SC
+Chesterfield,South Carolina,SC
+Clemson,South Carolina,SC
+Clinton,South Carolina,SC
+Clover,South Carolina,SC
+Columbia,South Carolina,SC
+Conway,South Carolina,SC
+Darlington,South Carolina,SC
+Dillon,South Carolina,SC
+Duncan,South Carolina,SC
+Easley,South Carolina,SC
+Elgin,South Carolina,SC
+Florence,South Carolina,SC
+Fort Mill,South Carolina,SC
+Fountain Inn,South Carolina,SC
+Gaffney,South Carolina,SC
+Georgetown,South Carolina,SC
+Goose Creek,South Carolina,SC
+Greenville,South Carolina,SC
+Greenwood,South Carolina,SC
+Greer,South Carolina,SC
+Hartsville,South Carolina,SC
+Indian Land,South Carolina,SC
+Inman,South Carolina,SC
+John's Island,South Carolina,SC
+Kershaw,South Carolina,SC
+Ladson,South Carolina,SC
+Lake City,South Carolina,SC
+Lake Wylie,South Carolina,SC
+Lancaster,South Carolina,SC
+Landrum,South Carolina,SC
+Laurens,South Carolina,SC
+Lexington,South Carolina,SC
+Liberty,South Carolina,SC
+Little River,South Carolina,SC
+Loris,South Carolina,SC
+Lugoff,South Carolina,SC
+Lyman,South Carolina,SC
+Manning,South Carolina,SC
+Marion,South Carolina,SC
+Mauldin,South Carolina,SC
+Moncks Corner,South Carolina,SC
+Mt. Pleasant,South Carolina,SC
+Murrell's Inlet,South Carolina,SC
+Myrtle Beach,South Carolina,SC
+Newberry,South Carolina,SC
+North Augusta,South Carolina,SC
+North Charleston,South Carolina,SC
+North Myrtle Beach,South Carolina,SC
+Orangeburg,South Carolina,SC
+Pageland,South Carolina,SC
+Pendleton,South Carolina,SC
+Pickens,South Carolina,SC
+Piedmont,South Carolina,SC
+Ravenel,South Carolina,SC
+Richburg,South Carolina,SC
+Rock Hill,South Carolina,SC
+Roebuck,South Carolina,SC
+Santee,South Carolina,SC
+Seneca,South Carolina,SC
+Simpsonville,South Carolina,SC
+Spartanburg,South Carolina,SC
+Summerville,South Carolina,SC
+Sumter,South Carolina,SC
+Taylors,South Carolina,SC
+Travelers Rest,South Carolina,SC
+Union,South Carolina,SC
+W. Columbia,South Carolina,SC
+Walhalla,South Carolina,SC
+Walterboro,South Carolina,SC
+Wando,South Carolina,SC
+West Columbia,South Carolina,SC
+York,South Carolina,SC
+Alcoa,Tennessee,TN
+Athens,Tennessee,TN
+Bristol,Tennessee,TN
+Chattanooga,Tennessee,TN
+Clarksville,Tennessee,TN
+Cleveland,Tennessee,TN
+Clinton,Tennessee,TN
+Columbia,Tennessee,TN
+Cookeville,Tennessee,TN
+Crossville,Tennessee,TN
+Dandridge,Tennessee,TN
+Dayton,Tennessee,TN
+Dickson,Tennessee,TN
+East Ridge,Tennessee,TN
+Elizabethton,Tennessee,TN
+Erwin,Tennessee,TN
+Greeneville,Tennessee,TN
+Harriman,Tennessee,TN
+Hendersonville,Tennessee,TN
+Hermitage,Tennessee,TN
+Hixson,Tennessee,TN
+Jefferson City,Tennessee,TN
+Johnson City,Tennessee,TN
+Jonesborough,Tennessee,TN
+Kingsport,Tennessee,TN
+Knoxville,Tennessee,TN
+La Vergne,Tennessee,TN
+LaFollette,Tennessee,TN
+Lebanon,Tennessee,TN
+Lenoir City,Tennessee,TN
+Loudon,Tennessee,TN
+Madison,Tennessee,TN
+Madisonville,Tennessee,TN
+Manchester,Tennessee,TN
+Maryville,Tennessee,TN
+Morristown,Tennessee,TN
+Murfreesboro,Tennessee,TN
+Nashville,Tennessee,TN
+Newport,Tennessee,TN
+Oak Ridge,Tennessee,TN
+Ooltewah,Tennessee,TN
+Pigeon Forge,Tennessee,TN
+Piney Flats,Tennessee,TN
+Powell,Tennessee,TN
+Red Bank,Tennessee,TN
+Sevierville,Tennessee,TN
+Shelbyville,Tennessee,TN
+Smyrna,Tennessee,TN
+Soddy Daisy,Tennessee,TN
+Spring Hill,Tennessee,TN
+Springfield,Tennessee,TN
+White House,Tennessee,TN
+Abingdon,Virginia,VA
+Ashland,Virginia,VA
+Aylett,Virginia,VA
+Bassett Forks,Virginia,VA
+Blacksburg,Virginia,VA
+Blairs,Virginia,VA
+Bristol,Virginia,VA
+Carrollton,Virginia,VA
+Charlottesville,Virginia,VA
+Chester,Virginia,VA
+Daleville,Virginia,VA
+Danville,Virginia,VA
+Dublin,Virginia,VA
+Emporia,Virginia,VA
+Farmville,Virginia,VA
+Forest,Virginia,VA
+Franklin,Virginia,VA
+Fredericksburg,Virginia,VA
+Galax,Virginia,VA
+Hampton,Virginia,VA
+Harrisonburg,Virginia,VA
+Hopewell,Virginia,VA
+Lynchburg,Virginia,VA
+Martinsville,Virginia,VA
+Mechanicsville,Virginia,VA
+Midlothian,Virginia,VA
+Moneta,Virginia,VA
+Newport News,Virginia,VA
+Norfolk,Virginia,VA
+North Chesterfield,Virginia,VA
+Onley,Virginia,VA
+Petersburg,Virginia,VA
+Portsmouth,Virginia,VA
+Powhatan,Virginia,VA
+Quinton,Virginia,VA
+Radford,Virginia,VA
+Richmond,Virginia,VA
+Ridgeway,Virginia,VA
+Roanoke,Virginia,VA
+Rocky Mount,Virginia,VA
+Rustburg,Virginia,VA
+Salem,Virginia,VA
+South Boston,Virginia,VA
+South Hill,Virginia,VA
+Staunton,Virginia,VA
+Suffolk,Virginia,VA
+Vinton,Virginia,VA
+Virginia Beach,Virginia,VA
+Winchester,Virginia,VA
+Wytheville,Virginia,VA
+Yorktown,Virginia,VA
+Washington ,DC,DC
+Princeton,West Virginia,WV
